@@ -1,0 +1,13 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  title: MyString
+  description: MyString
+  when_went: 2024-11-06 17:57:59
+  country: one
+
+two:
+  title: MyString
+  description: MyString
+  when_went: 2024-11-06 17:57:59
+  country: two
